@@ -1,6 +1,6 @@
-The first day: Learning how to use Git and Github
+<b> The first day: Learning how to use Git and Github </b>
 
-The Resources I find very useful:
+The resources I find very useful:
 - A free course by Udacity, a very solid intro to Git: https://www.udacity.com/course/version-control-with-git--ud123
 - Blog: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 - Video: https://www.youtube.com/watch?v=0fKg7e37bQE
