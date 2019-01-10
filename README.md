@@ -1,7 +1,7 @@
 <p> <b> 100 Days of Data Science Coding </b> </p>
 
 <p> Day 1: Learning how to use Git and Github </p>
-<p> Day 2:  </p>
+<p> Day 2: Linux Command Line Basics </p>
 <p> Day 3:  </p>
 <p> Day 4:  </p>
 <p> Day 5:  </p>
