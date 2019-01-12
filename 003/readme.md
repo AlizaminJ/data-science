@@ -1,4 +1,4 @@
-<p> <b>The second day: Linux Command Line Basics</p> </b>
+<p> <b>The third day: Linux Command Line Basics</p> </b>
 
 <ul>
 <li>
