@@ -6,7 +6,7 @@
 <p> Day 4: Configuring Linux Web Servers </p>
 <p> Day 5: Configuring Linux Web Servers </p>
 <p> Day 6: Configuring Linux Web Servers </p>
-<p> Day 7:  </p>
-<p> Day 8:  </p>
-<p> Day 9:  </p>
+<p> Day 7: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 8: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization. </p>
+<p> Day 9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization. </p>
 <p> Day 10:  </p>
