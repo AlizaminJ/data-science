@@ -1,4 +1,4 @@
-<p><b>The third day: Linux Command Line Basics</b></p>
+<p><b>Day 4: Linux Command Line Basics</b></p>
 <ul>
 <li>
 A free but great course on Udacity - "Configuring Linux Web Servers. Your First Ubuntu Server". Check it out: https://www.udacity.com/course/configuring-linux-web-servers--ud299
