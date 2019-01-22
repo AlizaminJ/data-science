@@ -12,3 +12,5 @@
 <p> Day 10: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
 <p> Day 11: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
 <p> Day 12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 13: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 14: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
