@@ -1,6 +1,6 @@
-<p><b>Day 13: Data Science Methodology - Week 3 </b></p>
+<p><b>Day 18: Python for Data Science - Week 3 </b></p>
 <ul>
 <li>
-"Data Science Methodology" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/python-for-applied-data-science/home/welcome
+"Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/python-for-applied-data-science/home/welcome
 </li>
 </ul>
