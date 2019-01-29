@@ -16,3 +16,7 @@
 <p> Day 14: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
 <p> Day 15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization - DONE! </p>
 <p> Day 16: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 17: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 18: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 19: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
