@@ -1,4 +1,4 @@
-<p> <b> 100 Days of Data Science Coding </b> </p>
+<h1> 100 Days of Data Science Coding </h1>
 <i>Books read </i>
 <ul>
   <li>
