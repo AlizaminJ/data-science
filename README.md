@@ -1,5 +1,16 @@
 <p> <b> 100 Days of Data Science Coding </b> </p>
+<i>Books read </i>
+<ul>
+  <li>
+    "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" by Cathy O'Neil
+  </li>
+  <li>
+    "The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams" by John Sonmez
+  </li>
+</ul>
+<hr>
 
+<i>Coding session</i>
 <p> Day 1: Learning how to use Git and Github - DONE! </p>
 <p> Day 2: Linux Command Line Basics </p>
 <p> Day 3: Linux Command Line Basics - DONE! </p>
