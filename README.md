@@ -33,3 +33,8 @@
 <p> Day 20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
 <p> Day 21: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
 <p> Day 22: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 23: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 24: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 25: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 26: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 27: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
