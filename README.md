@@ -1,5 +1,5 @@
 <h1> 100 Days of Data Science Coding </h1>
-<i>Books read </i>
+<h3>Books read </h3>
 <ul>
   <li>
     "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" by Cathy O'Neil
@@ -7,6 +7,13 @@
   <li>
     "The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams" by John Sonmez
   </li>
+</ul>
+<h3>Articles</h3>
+<ul>
+  <li>
+    "Machine Learning for Cybersecurity 101 – Towards Data Science". Check it out: http://bit.ly/2I2vFQv
+  </li>
+
 </ul>
 <hr>
 
