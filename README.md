@@ -1,5 +1,5 @@
 <h1> 100 Days of Data Science Coding </h1>
-<h3>Books read </h3>
+<h3>Books </h3>
 <ul>
   <li>
     "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" by Cathy O'Neil
@@ -12,6 +12,14 @@
 <ul>
   <li>
     "Machine Learning for Cybersecurity 101 – Towards Data Science". Check it out: http://bit.ly/2I2vFQv
+  </li>
+
+</ul>
+
+<h3>Resources</h3>
+<ul>
+  <li>
+    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs
   </li>
 
 </ul>
