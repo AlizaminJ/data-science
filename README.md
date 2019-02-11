@@ -55,3 +55,9 @@
 <p> Day 27: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
 <p> Day 28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
 <p> Day 29: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 30: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 31: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 32: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 33: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 34: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
+
