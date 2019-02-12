@@ -1,4 +1,4 @@
-<p><b>Day 34: Data Analysis with Python - Week 4 </b> - DONE! </p>
+<p><b>Day 34: Data Analysis with Python - Week 4 </b> </p>
 <ul>
 <li>
 "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization. 
