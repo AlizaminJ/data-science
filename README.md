@@ -59,5 +59,8 @@
 <p> Day 31: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
 <p> Day 32: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
 <p> Day 33: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 34: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
+<p> Day 34: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
+<p> Day 36: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
+
 
