@@ -13,7 +13,9 @@
   <li>
     "Machine Learning for Cybersecurity 101 – Towards Data Science". Check it out: http://bit.ly/2I2vFQv
   </li>
-
+ <li>
+    "Machine Learning Algorithms: Which One to Choose for Your Problem". Check it out: http://bit.ly/2SLynyh
+  </li>
 </ul>
 
 <h3>Resources</h3>
