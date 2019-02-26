@@ -23,7 +23,9 @@
   <li>
     "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs
   </li>
-
+  <li>
+    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2
+  </li>
 </ul>
 <hr>
 
