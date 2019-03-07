@@ -33,45 +33,16 @@
 <hr>
 
 <i>Coding session</i>
-<p> Day 1: Learning how to use Git and Github - DONE! </p>
-<p> Day 2: Linux Command Line Basics </p>
-<p> Day 3: Linux Command Line Basics - DONE! </p>
-<p> Day 4: Configuring Linux Web Servers </p>
-<p> Day 5: Configuring Linux Web Servers </p>
-<p> Day 6: Configuring Linux Web Servers - DONE! </p>
-<p> Day 7: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 8: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization - DONE! </p>
-<p> Day 10: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 11: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization - DONE! </p>
-<p> Day 13: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 14: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization - DONE! </p>
-<p> Day 16: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 17: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 18: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 19: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
-<p> Day 21: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 22: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 23: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 24: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 25: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 26: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 27: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
-<p> Day 29: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 30: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 31: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 32: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 33: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 34: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization - DONE!</p>
-<p> Day 36: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 37: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 38: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 39: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
-<p> Day 40: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 1: Learning how to use Git and Github</p>
+<p> Day 2-3: Linux Command Line Basics </p>
+<p> Day 4-6: Configuring Linux Web Servers </p>
+<p> Day 7-9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 10-12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 13-15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 16-20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 21-28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 29-35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
+<p> Day 36-40: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
+
 
 
