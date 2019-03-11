@@ -42,7 +42,7 @@
 <p> Day 16-20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
 <p> Day 21-28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
 <p> Day 29-35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p>
-<p> Day 36-42: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
+<p> Day 36-43: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
 
 
 
