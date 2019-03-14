@@ -32,8 +32,8 @@
 </ul>
 <hr>
 
-<i>Coding session</i>
-<p> Day 1: Learning how to use Git and Github</p>
+<h3>Coding session</h3>
+<h5> Day 1: Learning how to use Git and Github</h5>
 <ul>
 <li> A free course by Udacity, a very solid intro to Git: https://www.udacity.com/course/version-control-with-git--ud123 </li> 
 <li> Blog: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners </li>
@@ -43,54 +43,54 @@
 <li> The official Git book (The Kindle version is free!): https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B01ISNIKES </li>
 </ul>
 
-<p> Day 2-3: Linux Command Line Basics </p>
+<h5> Day 2-3: Linux Command Line Basics </h5>
 <ul>
 <li>"Linux Command Line Basics" on Udacity. Getting Started with the Shell: https://www.udacity.com/course/linux-command-line-basics--ud595</li>
 </ul>
 
-<p> Day 4-6: Configuring Linux Web Servers </p>
+<h5> Day 4-6: Configuring Linux Web Servers </h5>
 <ul>
 <li>
 A free but great course on Udacity - "Configuring Linux Web Servers. Your First Ubuntu Server". Check it out: https://www.udacity.com/course/configuring-linux-web-servers--ud299
 </li>
 </ul>
 
-<p> Day 7-9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </p>
+<h5> Day 7-9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </h5>
 <ul>
 <li>
 "What is Data Science?" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/what-is-datascience
 </li>
 </ul>
 
-<p> Day 10-12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p>
+<h5> Day 10-12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </h5>
 <ul>
 <li>
 "Open Source tools for Data Science" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome
 </li>
 </ul>
  
-<p> Day 13-15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </p>
+<h5> Day 13-15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </h5>
 <ul>
 <li>
 "Data Science Methodology" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/data-science-methodology/home/info
 </li>
 </ul>
 
-<p> Day 16-20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </p> 
+<h5> Day 16-20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </h5> 
 <ul>
 <li>
 "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/python-for-applied-data-science/home/welcome
 </li>
 </ul>
 
-<p> Day 21-28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</p>
+<h5> Day 21-28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</h5>
 <ul>
 <li>
 "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/sql-data-science/home/welcome
 </li>
 </ul>
 
-<p> Day 29-35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</p> 
+<h5> Day 29-35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</h5> 
 <ul>
 <li>
 "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization. 
@@ -98,7 +98,7 @@ Check it out: https://www.coursera.org/learn/data-analysis-with-python/home/welc
 </li>
 </ul>
 
-<p> Day 36-44: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </p>
+<h5> Day 36-44: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </h5>
 <ul>
 <li>
 "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization. 
