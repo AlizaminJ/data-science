@@ -34,6 +34,14 @@
 
 <i>Coding session</i>
 <p> Day 1: Learning how to use Git and Github</p>
+<ul>
+<li> A free course by Udacity, a very solid intro to Git: https://www.udacity.com/course/version-control-with-git--ud123 </li> 
+<li> Blog: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners </li>
+<li> Blog: https://kbroman.org/github_tutorial/pages/init.html </li>
+<li> Blog: https://alvinalexander.com/git/git-cheat-sheet-git-reference-commands#git-remote-commands </li>
+<li> Video: https://www.youtube.com/watch?v=0fKg7e37bQE </li>
+<li> The official Git book (The Kindle version is free!): https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B01ISNIKES </li>
+</ul>
 
 <p> Day 2-3: Linux Command Line Basics </p>
 <ul>
