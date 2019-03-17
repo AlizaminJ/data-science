@@ -98,7 +98,7 @@ Check it out: https://www.coursera.org/learn/data-analysis-with-python/home/welc
 </li>
 </ul>
 
-<h5> Day 36-44: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </h5>
+<h5> Day 36-45: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </h5>
 <ul>
 <li>
 "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization. 
