@@ -106,7 +106,7 @@ Check it out: https://www.coursera.org/learn/python-for-data-visualization
 </li>
 </ul>
 
-<h5> Day 37-: Machine Learning with Python </h5>
+<h5> Day 46-: Machine Learning with Python </h5>
 <ul>
 <li>
 "Machine Learning with Python" as a part of IBM Data Science Professional Certificate Specialization. 
