@@ -55,54 +55,62 @@ A free but great course on Udacity - "Configuring Linux Web Servers. Your First 
 </li>
 </ul>
 
-<h5> Day 7-9: "What is Data Science?" as a part of IBM Data Science Professional Certificate Specialization </h5>
+<h5> Day 7-9: What is Data Science? </h5>
 <ul>
 <li>
 "What is Data Science?" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/what-is-datascience
 </li>
 </ul>
 
-<h5> Day 10-12: "Open Source tools for Data Science" as a part of IBM Data Science Professional Certificate Specialization </h5>
+<h5> Day 10-12: Open Source tools for Data Science </h5>
 <ul>
 <li>
-"Open Source tools for Data Science" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome
+"Open Source tools for Data Science" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/open-source-tools-for-data-science
 </li>
 </ul>
  
-<h5> Day 13-15: "Data Science Methodology" as a part of IBM Data Science Professional Certificate Specialization </h5>
+<h5> Day 13-15: Data Science Methodology </h5>
 <ul>
 <li>
-"Data Science Methodology" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/data-science-methodology/home/info
+"Data Science Methodology" as a part of  IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/data-science-methodology
 </li>
 </ul>
 
-<h5> Day 16-20: "Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization </h5> 
+<h5> Day 16-20: Python for Data Science </h5> 
 <ul>
 <li>
-"Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/python-for-applied-data-science/home/welcome
+"Python for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/python-for-applied-data-science
 </li>
 </ul>
 
-<h5> Day 21-28: "Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization</h5>
+<h5> Day 21-28: Databases and SQL for Data Science</h5>
 <ul>
 <li>
-"Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/sql-data-science/home/welcome
+"Databases and SQL for Data Science" as a part of IBM Data Science Professional Certificate Specialization. Check it out: https://www.coursera.org/learn/sql-data-science
 </li>
 </ul>
 
-<h5> Day 29-35: "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization</h5> 
+<h5> Day 29-35: Data Analysis with Python </h5> 
 <ul>
 <li>
 "Data Analysis with Python" as a part of IBM Data Science Professional Certificate Specialization. 
-Check it out: https://www.coursera.org/learn/data-analysis-with-python/home/welcome
+Check it out: https://www.coursera.org/learn/data-analysis-with-python
 </li>
 </ul>
 
-<h5> Day 36-45: "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization </h5>
+<h5> Day 36-45: Data Visualization with Python </h5>
 <ul>
 <li>
 "Data Visualization with Python" as a part of IBM Data Science Professional Certificate Specialization. 
-Check it out: https://www.coursera.org/learn/python-for-data-visualization/home/welcome
+Check it out: https://www.coursera.org/learn/python-for-data-visualization
+</li>
+</ul>
+
+<h5> Day 37-: Machine Learning with Python </h5>
+<ul>
+<li>
+"Machine Learning with Python" as a part of IBM Data Science Professional Certificate Specialization. 
+Check it out: https://www.coursera.org/learn/machine-learning-with-python
 </li>
 </ul>
 
