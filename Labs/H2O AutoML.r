@@ -1,3 +1,4 @@
+#Workshop, Oslo UseR! Meetup
 #pointer on any function and then F1
 
 library(h2o)
