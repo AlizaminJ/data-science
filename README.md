@@ -29,6 +29,9 @@
   <li>
     "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2
   </li>
+  <li>
+   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8 
+   </li>
 </ul>
 <hr>
 
