@@ -22,7 +22,7 @@
 <ul>
    <li>
     "The Learning Machine". Check it out: https://www.thelearningmachine.ai/
-  </li
+  </li>
   <li>
     "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs
   </li>
