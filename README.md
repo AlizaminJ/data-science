@@ -21,6 +21,9 @@
 <h3>Resources</h3>
 <ul>
    <li>
+    "Deep AI. Definitions". Check it out: https://deepai.org/definitions
+  </li>
+   <li>
     "The Learning Machine". Check it out: https://www.thelearningmachine.ai/
   </li>
   <li>
