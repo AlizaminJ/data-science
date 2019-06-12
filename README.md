@@ -120,7 +120,7 @@ Check it out: https://www.coursera.org/learn/machine-learning-with-python
 </li>
 </ul>
 
-<h5> Day 55-56: Applied Data Science Capstone </h5>
+<h5> Day 55-70: Applied Data Science Capstone </h5>
 <ul>
 <li>
 "Applied Data Science Capstone" as a part of IBM Data Science Professional Certificate Specialization. 
