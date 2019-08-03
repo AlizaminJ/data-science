@@ -128,6 +128,12 @@ Check it out: https://www.coursera.org/learn/applied-data-science-capstone
 </li>
 </ul>
 
+<h5> Day 71-85: The Python Mega Course </h5>
+<ul>
+<li>
+The Python Mega Course: Build 10 Real World Applications on Udemy. Check it out: https://github.com/AlizaminJ/python-applications
+</li>
+</ul>
 
 
 
