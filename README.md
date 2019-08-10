@@ -16,6 +16,9 @@
  <li>
     "Machine Learning Algorithms: Which One to Choose for Your Problem". Check it out: http://bit.ly/2SLynyh
   </li>
+   <li>
+    "Machine Learning Models as Micro Services in Docker". Check it out: http://bit.ly/31FDEZ5
+  </li>
 </ul>
 
 <h3>Resources</h3>
