@@ -1,4 +1,48 @@
 <h1> 100 Days of Data Science Coding </h1>
+<h3>Data Science Repos </h3>
+<ul>
+  <li>
+     <a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science.</a>
+  </li>
+  <li>
+    <a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/stanford-cs-221-artificial-intelligence">Artificial Intelligence cheatsheets for Stanford's CS 221</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/deep-learning-drizzle">Deep Learning Drizzle</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/vgs">Kurs i Programmering for realfagslærere VGS</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/python-machine-learning-book-2nd-edition">Python Machine Learning (2nd Ed.) Code Repository</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/mlcourse.ai">Open Machine Learning Course</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/synaptic">Architecture-free neural network library for node.js and the browser</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a>
+  </li>
+    <li>
+    <a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a>
+    <a href="https://github.com/AlizaminJ/datastream.io">An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.</a>
+     <a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a>
+    <a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm</a>
+    <a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+
+  </li>
+  
+  
+  
+</ul>
 <h3>Books </h3>
 <ul>
   <li>
