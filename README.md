@@ -28,19 +28,18 @@
     <li>
     <a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a>
   </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a>
-    <a href="https://github.com/AlizaminJ/datastream.io">An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.</a>
-     <a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a>
-    <a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm</a>
-    <a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
+    <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
+    <li><a href="https://github.com/AlizaminJ/datastream.io">An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.</a></li>
+    <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
+    <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm</a></li>
+    <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 
-  </li>
-  
-  
+
   
 </ul>
 <h3>Books </h3>
