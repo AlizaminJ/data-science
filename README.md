@@ -40,10 +40,9 @@
 
 <h3>Video Lectures </h3>
 <ul>
-  <li><a href="https://www.youtube.com/user/stanfordonline/playlists"></a>Stanford</li>
-    <li><a href="https://www.youtube.com/user/MIT/playlists"></a>MIT</li>
+  <li><a href="https://www.youtube.com/user/stanfordonline/playlists">Stanford</a></li>
+  <li><a href="https://www.youtube.com/user/MIT/playlists">MIT</a></li>
 </ul>
-
 
 <h3>Books </h3>
 <ul>
