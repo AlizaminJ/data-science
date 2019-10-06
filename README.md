@@ -1,8 +1,9 @@
 <h1> 100 Days of Data Science Coding </h1>
 <h3>Data Science Repos </h3>
 <ul>
+  <li><a href="https://github.com/AlizaminJ/c9-python-getting-started">Microsoft: Getting started with Python</a></li>
   <li>
-     <a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science.</a>
+     <a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science</a>
   </li>
   <li>
     <a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a>
@@ -33,7 +34,6 @@
     <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
     <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm</a></li>
     <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
-  <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
 </ul>
