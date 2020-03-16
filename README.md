@@ -2,6 +2,7 @@
 
 <h3>Resources</h3>
 <ul>
+  <li>    "Fast AI". Check it out: https://www.fast.ai/</li>
   <li>    "Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
   <li>    "Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
   <li>    "Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
@@ -11,11 +12,10 @@
   <li>   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
 </ul>
 
-<h3>Data Science Repos </h3>
+<h3>Repos </h3>
 <ul>
   <li><a href="https://github.com/AlizaminJ/c9-python-getting-started">Microsoft: Getting started with Python</a></li>
-  <li><a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science</a>
-  </li>
+  <li><a href="https://github.com/AlizaminJ/ml-workspace">Web-based IDE specialized for machine learning and data science</a></li>
   <li><a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a></li>
   <li><a href="https://github.com/AlizaminJ/deep-learning-drizzle">Deep Learning Drizzle</a></li>
   <li><a href="https://github.com/AlizaminJ/python-machine-learning-book-2nd-edition">Python Machine Learning (2nd Ed.)</a></li>
