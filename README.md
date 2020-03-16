@@ -31,14 +31,17 @@
   <li><a href="https://github.com/AlizaminJ/python-applications">Python Applications</a></li>
   <li><a href="https://github.com/AlizaminJ/som-tsp">Solcing the Traveling Salesman Problem</a></li>
   <li><a href="https://github.com/AlizaminJ/everyone-poops">Everyone poops</a></li>
-  <li><a href="https://github.com/AlizaminJ/ca-project">Continious Delivery and DevOps</a></li>
-  <li><a href="https://github.com/AlizaminJ/circle-ci-workshop">Circle CI</a></li>
-  <li><a href="https://github.com/AlizaminJ/tech-radar">Zalando Tech Radar</a></li>
   <li><a href="https://github.com/AlizaminJ/ML-DS-DL-Python">Machine Learning, Data Science and Deep Learning with Python</a></li>
   <li><a href="https://github.com/AlizaminJ/knockknock">Knock-knock</a></li>
   <li><a href="https://github.com/AlizaminJ/ml-workspace">ML Workspace</a></li>
-  <li><a href="https://github.com/AlizaminJ/docker-katas">Docker Katas</a></li>
   <li><a href=""></a></li>
+
+  <ul>Other 
+    <li><a href="https://github.com/AlizaminJ/tech-radar">Zalando Tech Radar</a></li>
+    <li><a href="https://github.com/AlizaminJ/docker-katas">Docker Katas</a></li>
+    <li><a href="https://github.com/AlizaminJ/circle-ci-workshop">Circle CI</a></li>
+    <li><a href="https://github.com/AlizaminJ/ca-project">Continious Delivery and DevOps</a></li>
+  </ul>
 </ul>
 
 <h3>Video Lectures </h3>
