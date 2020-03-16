@@ -2,39 +2,32 @@
 <h3>Data Science Repos </h3>
 <ul>
   <li><a href="https://github.com/AlizaminJ/c9-python-getting-started">Microsoft: Getting started with Python</a></li>
-  <li>
-     <a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science</a>
+  <li><a href="https://github.com/AlizaminJ/ml-workspace">All-in-one web-based IDE specialized for machine learning and data science</a>
   </li>
-  <li>
-    <a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/stanford-cs-221-artificial-intelligence">Artificial Intelligence cheatsheets for Stanford's CS 221</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/deep-learning-drizzle">Deep Learning Drizzle</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/vgs">Kurs i Programmering for realfagslærere VGS</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/python-machine-learning-book-2nd-edition">Python Machine Learning (2nd Ed.) Code Repository</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/mlcourse.ai">Open Machine Learning Course</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/synaptic">Architecture-free neural network library for node.js and the browser</a>
-  </li>
-    <li>
-    <a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a>
-  </li>
-    <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
-    <li><a href="https://github.com/AlizaminJ/datastream.io">An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.</a></li>
-    <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
-    <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm</a></li>
-    <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
-  <li><a href="https://github.com/AlizaminJ/Data-Engineering/blob/master/README.md">Data Engineering</a></li>
+  <li><a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a></li>
+  <li><a href="https://github.com/AlizaminJ/deep-learning-drizzle">Deep Learning Drizzle</a></li>
+  <li><a href="https://github.com/AlizaminJ/python-machine-learning-book-2nd-edition">Python Machine Learning (2nd Ed.)</a></li>
+  <li><a href="https://github.com/AlizaminJ/mlcourse.ai">Open Machine Learning Course</a></li>
+  <li><a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a></li>
+  <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
+  <li><a href="https://github.com/AlizaminJ/datastream.io">Real-time anomaly detection using Python, Elasticsearch and Kibana</a></li>
+  <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
+  <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Flappy Bird using Neural Network & Genetic Algorithm</a></li
+  <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
+  <li><a href="https://github.com/AlizaminJ/Data-Engineering">Data Engineering</a></li>
+  <li><a href="https://github.com/AlizaminJ/Real-Time-Person-Removal">Real Time Person Removal</a></li>
+  <li><a href="https://github.com/AlizaminJ/machine-learning-course">A Machine Learning Course with Python</a></li>
+  <li><a href="https://github.com/AlizaminJ/python-applications">Python Applications</a></li>
+  <li><a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learing Models</a></li>
+  <li><a href="https://github.com/AlizaminJ/som-tsp">Solcing the Traveling Salesman Problem</a></li>
+  <li><a href="https://github.com/AlizaminJ/everyone-poops">Everyone poops</a></li>
+  <li><a href="https://github.com/AlizaminJ/ca-project">Continious Delivery and DevOps</a></li>
+  <li><a href="https://github.com/AlizaminJ/circle-ci-workshop">Circle CI</a></li>
+  <li><a href="https://github.com/AlizaminJ/tech-radar">Zalando Tech Radar</a></li>
+  <li><a href="https://github.com/AlizaminJ/ML-DS-DL-Python">Machine Learning, Data Science and Deep Learning with Python</a></li>
+  <li><a href="https://github.com/AlizaminJ/knockknock">Knock-knock</a></li>
+  <li><a href="https://github.com/AlizaminJ/ml-workspace">ML Workspace</a></li>
+  <li><a href="https://github.com/AlizaminJ/docker-katas">Docker Katas</a></li>
   <li><a href=""></a></li>
 </ul>
 
@@ -68,21 +61,13 @@
 
 <h3>Resources</h3>
 <ul>
-   <li>
-    "Deep AI. Definitions". Check it out: https://deepai.org/definitions
-  </li>
-   <li>
-    "The Learning Machine". Check it out: https://www.thelearningmachine.ai/
-  </li>
-  <li>
-    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs
-  </li>
-  <li>
-    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2
-  </li>
-  <li>
-   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8 
-   </li>
+  <li>    "Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
+  <li>    "Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
+  <li>    "Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
+  <li>    "The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
+  <li>    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
+  <li>    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2  </li>
+  <li>   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
 </ul>
 <hr>
 
