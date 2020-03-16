@@ -1,4 +1,16 @@
 <h1> 100 Days of Data Science Coding </h1>
+
+<h3>Resources</h3>
+<ul>
+  <li>    "Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
+  <li>    "Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
+  <li>    "Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
+  <li>    "The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
+  <li>    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
+  <li>    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2  </li>
+  <li>   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
+</ul>
+
 <h3>Data Science Repos </h3>
 <ul>
   <li><a href="https://github.com/AlizaminJ/c9-python-getting-started">Microsoft: Getting started with Python</a></li>
@@ -39,36 +51,16 @@
 
 <h3>Books </h3>
 <ul>
-  <li>
-    "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" by Cathy O'Neil
-  </li>
-  <li>
-    "The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams" by John Sonmez
-  </li>
+  <li>"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" by Cathy O'Neil  </li>
+  <li>"The Complete Software Developer's Career Guide" by John Sonmez  </li>
 </ul>
 <h3>Articles</h3>
 <ul>
-  <li>
-    "Machine Learning for Cybersecurity 101 – Towards Data Science". Check it out: http://bit.ly/2I2vFQv
-  </li>
- <li>
-    "Machine Learning Algorithms: Which One to Choose for Your Problem". Check it out: http://bit.ly/2SLynyh
-  </li>
-   <li>
-    "Machine Learning Models as Micro Services in Docker". Check it out: http://bit.ly/31FDEZ5
-  </li>
+  <li>"Machine Learning for Cybersecurity 101 – Towards Data Science". Check it out: http://bit.ly/2I2vFQv  </li>
+  <li>"Machine Learning Algorithms: Which One to Choose for Your Problem". Check it out: http://bit.ly/2SLynyh  </li>
+  <li>"Machine Learning Models as Micro Services in Docker". Check it out: http://bit.ly/31FDEZ5  </li>
 </ul>
 
-<h3>Resources</h3>
-<ul>
-  <li>    "Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
-  <li>    "Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
-  <li>    "Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
-  <li>    "The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
-  <li>    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
-  <li>    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2  </li>
-  <li>   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
-</ul>
 <hr>
 
 <h3>Coding session</h3>
