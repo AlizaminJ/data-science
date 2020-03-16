@@ -29,7 +29,6 @@
   <li><a href="https://github.com/AlizaminJ/Real-Time-Person-Removal">Real Time Person Removal</a></li>
   <li><a href="https://github.com/AlizaminJ/machine-learning-course">A Machine Learning Course with Python</a></li>
   <li><a href="https://github.com/AlizaminJ/python-applications">Python Applications</a></li>
-  <li><a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learing Models</a></li>
   <li><a href="https://github.com/AlizaminJ/som-tsp">Solcing the Traveling Salesman Problem</a></li>
   <li><a href="https://github.com/AlizaminJ/everyone-poops">Everyone poops</a></li>
   <li><a href="https://github.com/AlizaminJ/ca-project">Continious Delivery and DevOps</a></li>
