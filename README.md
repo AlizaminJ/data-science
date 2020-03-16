@@ -1,4 +1,4 @@
-<h1> 100 Days of Data Science Coding </h1>
+<h1> Data Science </h1>
 
 <h3>Resources</h3>
 <ul>
