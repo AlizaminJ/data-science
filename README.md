@@ -23,7 +23,7 @@
   <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
   <li><a href="https://github.com/AlizaminJ/datastream.io">Real-time anomaly detection using Python, Elasticsearch and Kibana</a></li>
   <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
-  <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Flappy Bird using Neural Network & Genetic Algorithm</a></li
+  <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Flappy Bird using Neural Network & Genetic Algorithm</a></li>
   <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
   <li><a href="https://github.com/AlizaminJ/Data-Engineering">Data Engineering</a></li>
   <li><a href="https://github.com/AlizaminJ/Real-Time-Person-Removal">Real Time Person Removal</a></li>
