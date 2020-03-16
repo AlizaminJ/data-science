@@ -2,14 +2,13 @@
 
 <h3>Resources</h3>
 <ul>
-  <li>    "Fast AI". Check it out: https://www.fast.ai/</li>
-  <li>    "Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
-  <li>    "Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
-  <li>    "Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
-  <li>    "The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
-  <li>    "Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
-  <li>    "BBC Visual and Data Journalism cookbook for R graphics". Check it out: http://bit.ly/2Tgj9S2  </li>
-  <li>   "Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
+  <li>"Fast AI". Check it out: https://www.fast.ai/</li>
+  <li>"Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
+  <li>"Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
+  <li>"Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
+  <li>"The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
+  <li>"Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
+  <li>"Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
 </ul>
 
 <h3>Repos </h3>
