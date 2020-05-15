@@ -22,27 +22,27 @@
   <li><a href="https://github.com/AlizaminJ/deep-learning-with-python-notebooks">Deep Learning Notebooks</a></li>
   <li><a href="https://github.com/AlizaminJ/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials">Tarry Singh Tutorials</a></li>
   <li><a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a></li>
-  <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
-  <li><a href="https://github.com/AlizaminJ/datastream.io">Real-time anomaly detection using Python, Elasticsearch and Kibana</a></li>
-  <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
-  <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Flappy Bird using Neural Network & Genetic Algorithm</a></li>
   <li><a href="https://github.com/AlizaminJ/deepdream">Google Deepdream</a></li>
   <li><a href="https://github.com/AlizaminJ/Data-Engineering">Data Engineering</a></li>
-  <li><a href="https://github.com/AlizaminJ/Real-Time-Person-Removal">Real Time Person Removal</a></li>
   <li><a href="https://github.com/AlizaminJ/machine-learning-course">A Machine Learning Course with Python</a></li>
   <li><a href="https://github.com/AlizaminJ/python-applications">Python Applications</a></li>
-  <li><a href="https://github.com/AlizaminJ/som-tsp">Solcing the Traveling Salesman Problem</a></li>
-  <li><a href="https://github.com/AlizaminJ/everyone-poops">Everyone poops</a></li>
   <li><a href="https://github.com/AlizaminJ/ML-DS-DL-Python">Machine Learning, Data Science and Deep Learning with Python</a></li>
-  <li><a href="https://github.com/AlizaminJ/knockknock">Knock-knock</a></li>
-  <li><a href="https://github.com/AlizaminJ/ml-workspace">ML Workspace</a></li>
-  <li><a href="https://github.com/AlizaminJ/roborover">Robo Rover</a></li>
   <li><a href="">Other</a></li>
-  <ul> 
+  <ul>
+    <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
+    <li><a href="https://github.com/AlizaminJ/datastream.io">Real-time anomaly detection using Python, Elasticsearch and Kibana</a></li>
+  <li><a href="https://github.com/AlizaminJ/som-tsp">Solving the Traveling Salesman Problem using Self-Organizing Maps</a></li>
+  <li><a href="https://github.com/AlizaminJ/Machine-Learning-Flappy-Bird">Flappy Bird using Neural Network & Genetic Algorithm</a></li>
+    <li><a href="https://github.com/AlizaminJ/Real-Time-Person-Removal">Real Time Person Removal</a></li>
     <li><a href="https://github.com/AlizaminJ/tech-radar">Zalando Tech Radar</a></li>
     <li><a href="https://github.com/AlizaminJ/docker-katas">Docker Katas</a></li>
     <li><a href="https://github.com/AlizaminJ/circle-ci-workshop">Circle CI</a></li>
     <li><a href="https://github.com/AlizaminJ/ca-project">Continious Delivery and DevOps</a></li>
+      <li><a href="https://github.com/AlizaminJ/knockknock">Knock-knock</a></li>
+    <li><a href="https://github.com/AlizaminJ/som-tsp">Solcing the Traveling Salesman Problem</a></li>
+  <li><a href="https://github.com/AlizaminJ/everyone-poops">Everyone poops</a></li>
+  <li><a href="https://github.com/AlizaminJ/ml-workspace">ML Workspace</a></li>
+  <li><a href="https://github.com/AlizaminJ/roborover">Robo Rover</a></li>
   </ul>
 </ul>
 
