@@ -1,0 +1,4 @@
+#create a quick pd
+df = pd.DataFrame({'Type':list('ABBC'), 'Set':list('ZZXY')})
+df['color'] = np.where(df['Set']=='Z', 'green', 'red')
+print(df)
