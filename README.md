@@ -18,7 +18,9 @@
   <li><a href="https://github.com/AlizaminJ/deeplearning-models">Deep Learning Models</a></li>
   <li><a href="https://github.com/AlizaminJ/deep-learning-drizzle">Deep Learning Drizzle</a></li>
   <li><a href="https://github.com/AlizaminJ/python-machine-learning-book-2nd-edition">Python Machine Learning (2nd Ed.)</a></li>
-  <li><a href="https://github.com/AlizaminJ/mlcourse.ai">Open Machine Learning Course</a></li>
+  <li><a href="https://github.com/AlizaminJ/mlcourse.ai">Open Machine Learning Course</a></li>    
+  <li><a href="https://github.com/AlizaminJ/deep-learning-with-python-notebooks">Deep Learning Notebooks</a></li>
+  <li><a href="https://github.com/AlizaminJ/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials">Tarry Singh Tutorials</a></li>
   <li><a href="https://github.com/AlizaminJ/100-Days-Of-ML-Code">100 Days of Machine Learning Coding</a></li>
   <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
   <li><a href="https://github.com/AlizaminJ/datastream.io">Real-time anomaly detection using Python, Elasticsearch and Kibana</a></li>
