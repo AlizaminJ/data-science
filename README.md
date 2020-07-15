@@ -9,6 +9,8 @@
   <li>"The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
   <li>"Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
   <li>"Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
+  <li>Full Stack Deep Learning. Check it out: https://course.fullstackdeeplearning.com/</li>
+  <li>Awesome Machine Learning and AI Courses. Check it out: https://github.com/luspr/awesome-ml-courses/</li>
 </ul>
 
 <h3>Repos </h3>
