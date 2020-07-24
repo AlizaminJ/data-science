@@ -2,15 +2,16 @@
 
 <h3>Resources</h3>
 <ul>
-  <li>"Fast AI". Check it out: https://www.fast.ai/</li>
-  <li>"Harvard - Intro to Data Science". Check it out: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
-  <li>"Stanford AI". Check it out: https://stanford.edu/~shervine/teaching/cs-221/</li>
-  <li>"Deep AI. Definitions". Check it out: https://deepai.org/definitions  </li>
-  <li>"The Learning Machine". Check it out: https://www.thelearningmachine.ai/  </li>
-  <li>"Cheat Sheets for Data Science made by wonderful online communities". Check it out: http://bit.ly/2BvkeLs  </li>
-  <li>"Markdown for Jupyter notebooks cheatsheet". Check it out: http://bit.ly/2H4BnO8    </li>
-  <li>Full Stack Deep Learning. Check it out: https://course.fullstackdeeplearning.com/</li>
-  <li>Awesome Machine Learning and AI Courses. Check it out: https://github.com/luspr/awesome-ml-courses/</li>
+  <li>Fast AI: https://www.fast.ai/</li>
+  <li>Harvard - Intro to Data Science: https://harvard-iacs.github.io/2019-CS109A/pages/materials.html</li>
+  <li>Stanford AI: https://stanford.edu/~shervine/teaching/cs-221/</li>
+  <li>Deep AI. Definitions: https://deepai.org/definitions  </li>
+  <li>Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap</li>
+  <li>The Learning Machine: https://www.thelearningmachine.ai/  </li>
+  <li>Full Stack Deep Learning: https://course.fullstackdeeplearning.com/</li>
+  <li>Awesome Machine Learning and AI Courses: https://github.com/luspr/awesome-ml-courses/</li>
+  <li>Cheat Sheets for Data Science made by wonderful online communities: http://bit.ly/2BvkeLs  </li>
+  <li>Markdown for Jupyter notebooks cheatsheet: http://bit.ly/2H4BnO8 </li>
 </ul>
 
 <h3>Repos </h3>
