@@ -30,6 +30,7 @@
   <li><a href="https://github.com/AlizaminJ/machine-learning-course">A Machine Learning Course with Python</a></li>
   <li><a href="https://github.com/AlizaminJ/python-applications">Python Applications</a></li>
   <li><a href="https://github.com/AlizaminJ/ML-DS-DL-Python">Machine Learning, Data Science and Deep Learning with Python</a></li>
+  <li><a href="https://github.com/dair-ai/Mathematics-for-ML?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#readme">Math for ML</a></li>
   <li><a href="">Other</a></li>
   <ul>
     <li><a href="https://github.com/AlizaminJ/everyone-poops">Predicting where and when people poop on the streets of SF</a></li>
